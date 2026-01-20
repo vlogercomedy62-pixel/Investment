@@ -1,0 +1,7 @@
+{
+  "name": "Titan Admin Panel",
+  "description": "A high-performance administrative dashboard for managing users, VIP products, recharges, withdrawals, and system settings with integrated AI for announcement generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
